@@ -25,3 +25,4 @@ Run the following command in the terminal:
 python calculator.py
 
 Then enter two numbers and select the desired operation.
+
